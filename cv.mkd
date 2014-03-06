@@ -1,19 +1,88 @@
-Vaga
+Vagas
 ====
 
-[Preencha aqui a vaga que você pretende]
+* Plataforma de Cadastro
+* Plataforma de Personalização
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
-
-CV
+João Paulo Gomes dos Santos
 ==
 
-[Preencha aqui o seu cv]
+* Contato: jpjcjbr@gmail.com
+* Tempo de experiência com desenvolvimento: 7 anos
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+## Certificações
+* SCJP – Sun Certified Java Programmer 6
+* SCWCD – Sun Certified Web Component Developer 5
+* SCBCD – Sun Certified Business Component Developer 5
+* SCEA – Sun Certified Enterprise Architect – Part I
+
+## Publicações
+* Artigo: Integrando aplicações Java com o Facebook, Revista MundoJ, edição 55.
+* Artigo: Implantando aplicações Java no Heroku, Revista MundoJ, edição 56.
+
+## Formação Acadêmica
+* Engenharia da Computação – ETEP
+* Curso técnico em informática industrial – ETEP 
+
+## Histórico Profissional
+* <b>VPSA – ERP Online (11/2013 – Atualmente)</b>
+ * Arquiteto JEE
+ * Desenvolvimento de aplicações utilizando Maven, Spring, SpringMVC, Hibernate e JMS.
+ * Configuração e integração de testes automatizados utilizando Selenium, testes integrados com o Maven e Jenkins.
+
+* <b>Canal direto Tarkett - Projeto paralelo (10/2012 - Atualmente)</b>
+ * Projeto que auxilia os clientes a verem seus dados referentes à cobranças, pedidos e estoque.
+ * Desenvolvido utilizando Ruby on Rails, MongoDB(mongoid), Sidekiq, Twitter bootstrap, RSpec e Capybara.
+ * Projeto hospedado na DigitalOcean, toda infraestrutura foi criada utilizando Chef para automatizar o provisionamento dos ambiente de produção.
+
+* Regen – Dairy effluent management (<b>Nova Zelândia</b>) (06/2013 – 11/2013)
+ * Desenvolvedor Java
+ * Desenvolvimento de aplicações utilizando JSF, Hibernate e gráficos com Highcharts
+ * Aplicação utilizada para dar dicas relacionadas à irrigação aos fazendeiros através de SMS e e-mail.
+
+* <b>VPSA – Sistema Financeiro Contábil (03/2010 – 06/2013)</b>
+ * Arquiteto JEE
+ * Desenvolvimento de aplicações utilizando Maven, Spring, SpringMVC Hibernate, JMS, TDD e JasperReports.
+ * Desenvolvimento de uma loja de aplicativos integrados ao sistema VPSA.
+ * Desenvolvimento de uma plataforma de autenticação(Oauth2) para dar suporte à loja de aplicativos.
+ * Desenvolvimento de um sistema multi-tenant com o Hibernate.
+ * Criação de testes de carga e de stress automatizados.
+ * Configuração do ambiente de integração contínua com o Hudson/Jenkins para projetos Java e Flex.
+ * Configuração do Maven para projetos Java e Flex.
+ * Contribuição na organização de workshops internos para melhorar a qualidade técnica do time de desenvolvimento.
+ * Workshop de TDD
+ * Workshop de otimização para o Hibernate
+ * DOJO’s semanais
+
+* Projeto pessoal: Notificador de pagamentos
+ * O sistema envia notificações(email/sms) para alertar que a data de vencimento de uma conta se aproxima.
+ * Desenvolvido em Ruby on Rails.
+ * Integrado ao VPSA para obter as informações financeiras.
+ * Integrado ao Google para armazenar os agendamentos no Google Calendar.
+
+* Boldcron/UOL (01/2009 – 03/2010)
+ * Desenvolvedor JEE
+ * Desenvolvimento de aplicações usando WebWork, Hibernate, Axis, JasperReports..
+ * Desenvolvimento de um sistema de nota fiscal eletrônica.
+
+* Harpia Project – Receita Federal Brasileira (01/2008 – 12/2008)
+ * Desenvolvedor JEE
+ * Desenvolvimento de aplicações usando Struts 2, Spring, Hibernate, JasperReports e JQuery.
+ * Desenvolvimento de um assinador digital de arquivos de acordo com as especificações da ICP-Brasil.
+ * Desenvolvimento de um repositório de arquivos encriptados
+
+## Treinamentos
+* FJ-31 – Java EE Avançado e WebServices – 40h/Caelum.
+* FJ-91 – Arquitetura e Design de aplicações Java – 40h/Caelum.
+
+## Eventos
+* RubyConfBR 2012
+* QCONSP 2012
+* QCONSP 2011
+* Agile Vale 2011
+* Agile Vale 2010
+* Falando em Java 2008
+* The Developers Conference 2007
+
+
+
